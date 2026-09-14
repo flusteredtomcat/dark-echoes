@@ -1,4 +1,4 @@
-export const episodeList = [
+export const episodes = [
   {
     id: 1,
     title: "The Silent Caller",
